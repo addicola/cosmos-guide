@@ -24,4 +24,4 @@ Creation address: osmo1w4ufudf527kk9p9jxgg34tdypmxatz04c7skdp
 Test transactions:
 
 Out Oosmosis
-https://www.mintscan.io/osmosis-testnet/tx/C87A588FA491EDE3E686F0FDC87EAF9EA6D01B6350CDDDB6479454D7F0DDA728
+https://www.mintscan.io/osmosis-testnet/tx/9835193FB68FE91E95B7FBB091BAE964CBF45C118D85CA7944B7E0CFB7BC9210?height=5643377
